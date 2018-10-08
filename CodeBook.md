@@ -64,16 +64,16 @@ The tidy data is a text file under the name tidy_data.txt.
 	* timeDomainBodyGyroscopeJerkStandardDeviationX: Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X direction
 	* timeDomainBodyGyroscopeJerkStandardDeviationY: Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the Y direction
 	* timeDomainBodyGyroscopeJerkStandardDeviationZ: Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the Z direction
-	* timeDomainBodyAccelerometerMagnitudeMean                      
-	* timeDomainBodyAccelerometerMagnitudeStandardDeviation
-	* timeDomainGravityAccelerometerMagnitudeMean                   
-	* timeDomainGravityAccelerometerMagnitudeStandardDeviation      
-	* timeDomainBodyAccelerometerJerkMagnitudeMean                  
-	* timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation     
-	* timeDomainBodyGyroscopeMagnitudeMean                          
-	* timeDomainBodyGyroscopeMagnitudeStandardDeviation            
-	* timeDomainBodyGyroscopeJerkMagnitudeMean              
-	* timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation         
+	* timeDomainBodyAccelerometerMagnitudeMean : Average of the time-domain magnitude of body acceleration 
+	* timeDomainBodyAccelerometerMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of body acceleration
+	* timeDomainGravityAccelerometerMagnitudeMean :  Average of the time-domain magnitude of gravity acceleration
+	* timeDomainGravityAccelerometerMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of gravity acceleration
+	* timeDomainBodyAccelerometerJerkMagnitudeMean : Average of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time)
+	* timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time)
+	* timeDomainBodyGyroscopeMagnitudeMean: Average of the time-domain magnitude of body angular velocity
+	* timeDomainBodyGyroscopeMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of body angular velocity
+	* timeDomainBodyGyroscopeJerkMagnitudeMean : Average of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)
+	* timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)
 	* frequencyDomainBodyAccelerometerMeanX          
 	* frequencyDomainBodyAccelerometerMeanY                         
 	* frequencyDomainBodyAccelerometerMeanZ                         

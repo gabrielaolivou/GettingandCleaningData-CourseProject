@@ -34,36 +34,36 @@ The tidy data is a text file under the name tidy_data.txt.
 		*'LAYING': subject was standing
 	*Subject: The ID for the subject participaiting in the experiment.Correspond in a range from 1 to 30.
 *The measurement variables are found from 3 to 81 columns, under the names:
-	* timeDomainBodyAccelerometerMeanX                              
-	* timeDomainBodyAccelerometerMeanY                              
-	* timeDomainBodyAccelerometerMeanZ                              
-	* timeDomainBodyAccelerometerStandardDeviationX                 
-	* timeDomainBodyAccelerometerStandardDeviationY                 
-	* timeDomainBodyAccelerometerStandardDeviationZ                 
-	* timeDomainGravityAccelerometerMeanX                          
-	* timeDomainGravityAccelerometerMeanY                           
-	* timeDomainGravityAccelerometerMeanZ                           
-	* timeDomainGravityAccelerometerStandardDeviationX              
-	* timeDomainGravityAccelerometerStandardDeviationY              
-	* timeDomainGravityAccelerometerStandardDeviationZ              
-	* timeDomainBodyAccelerometerJerkMeanX                          
-	* timeDomainBodyAccelerometerJerkMeanY                          
-	* timeDomainBodyAccelerometerJerkMeanZ                          
-	* timeDomainBodyAccelerometerJerkStandardDeviationX             
-	* timeDomainBodyAccelerometerJerkStandardDeviationY             
-	* timeDomainBodyAccelerometerJerkStandardDeviationZ             
-	* timeDomainBodyGyroscopeMeanX                                  
-	* timeDomainBodyGyroscopeMeanY                                  
-	* timeDomainBodyGyroscopeMeanZ                              
-	* timeDomainBodyGyroscopeStandardDeviationX                     
-	* timeDomainBodyGyroscopeStandardDeviationY                     
-	* timeDomainBodyGyroscopeStandardDeviationZ                     
-	* timeDomainBodyGyroscopeJerkMeanX                              
-	* timeDomainBodyGyroscopeJerkMeanY                              
-	* timeDomainBodyGyroscopeJerkMeanZ                              
-	* timeDomainBodyGyroscopeJerkStandardDeviationX                 
-	* timeDomainBodyGyroscopeJerkStandardDeviationY                 
-	* timeDomainBodyGyroscopeJerkStandardDeviationZ                 
+	* timeDomainBodyAccelerometerMeanX : Average time-domain body acceleration in the X direction                              
+	* timeDomainBodyAccelerometerMeanY : Average time-domain body acceleration in the Y direction                            
+	* timeDomainBodyAccelerometerMeanZ : Average time-domain body acceleration in the Z direction                             
+	* timeDomainBodyAccelerometerStandardDeviationX : Standard deviation of the time-domain body acceleration in the X direction
+	* timeDomainBodyAccelerometerStandardDeviationY : Standard deviation of the time-domain body acceleration in the Y direction  
+	* timeDomainBodyAccelerometerStandardDeviationZ : Standard deviation of the time-domain body acceleration in the Z direction
+	* timeDomainGravityAccelerometerMeanX : Average time-domain gravity acceleration in the X direction
+	* timeDomainGravityAccelerometerMeanY : Average time-domain gravity acceleration in the Y direction   
+	* timeDomainGravityAccelerometerMeanZ : Average time-domain gravity acceleration in the Z direction             
+	* timeDomainGravityAccelerometerStandardDeviationX : Standard deviation of the time-domain gravity acceleration in the X direction
+	* timeDomainGravityAccelerometerStandardDeviationY : Standard deviation of the time-domain gravity acceleration in the Y direction
+	* timeDomainGravityAccelerometerStandardDeviationZ : Standard deviation of the time-domain gravity acceleration in the Z direction            
+	* timeDomainBodyAccelerometerJerkMeanX : Average time-domain body acceleration jerk (derivation of the acceleration in time) in the X direction
+	* timeDomainBodyAccelerometerJerkMeanY : Average time-domain body acceleration jerk (derivation of the acceleration in time) in the Y direction
+	* timeDomainBodyAccelerometerJerkMeanZ : Average time-domain body acceleration jerk (derivation of the acceleration in time) in the Z direction
+	* timeDomainBodyAccelerometerJerkStandardDeviationX : Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X direction
+	* timeDomainBodyAccelerometerJerkStandardDeviationY : Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the Y direction
+	* timeDomainBodyAccelerometerJerkStandardDeviationZ : Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the Z direction
+	* timeDomainBodyGyroscopeMeanX : Average time-domain body angular velocity in the X direction                 
+	* timeDomainBodyGyroscopeMeanY : Average time-domain body angular velocity in the Y direction             
+	* timeDomainBodyGyroscopeMeanZ : Average time-domain body angular velocity in the Z direction     
+	* timeDomainBodyGyroscopeStandardDeviationX : Standard deviation of the time-domain body angular velocity in the X direction
+	* timeDomainBodyGyroscopeStandardDeviationY : Standard deviation of the time-domain body angular velocity in the Y direction
+	* timeDomainBodyGyroscopeStandardDeviationZ : Standard deviation of the time-domain body angular velocity in the Z direction
+	* timeDomainBodyGyroscopeJerkMeanX : Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X direction
+	* timeDomainBodyGyroscopeJerkMeanY : Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the Y direction
+	* timeDomainBodyGyroscopeJerkMeanZ : Average time-domain body angular velocity jerk (derivation of the angular velocity in time) in the Z direction
+	* timeDomainBodyGyroscopeJerkStandardDeviationX: Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X direction
+	* timeDomainBodyGyroscopeJerkStandardDeviationY: Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the Y direction
+	* timeDomainBodyGyroscopeJerkStandardDeviationZ: Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the Z direction
 	* timeDomainBodyAccelerometerMagnitudeMean                      
 	* timeDomainBodyAccelerometerMagnitudeStandardDeviation
 	* timeDomainGravityAccelerometerMagnitudeMean                   

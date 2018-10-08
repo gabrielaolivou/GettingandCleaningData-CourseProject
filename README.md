@@ -1,6 +1,4 @@
-# GettingandCleaningData-CourseProject
-
-## **Getting and Cleaning Data** Course Project
+# Getting and Cleaning Data - Course Project
 
 In this course project the objective is show the obtained skill to collect, work with, and clean a data set. 
 

@@ -74,45 +74,45 @@ The tidy data is a text file under the name tidy_data.txt.
 	* timeDomainBodyGyroscopeMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of body angular velocity
 	* timeDomainBodyGyroscopeJerkMagnitudeMean : Average of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)
 	* timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation : Standard deviation of the time-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)
-	* frequencyDomainBodyAccelerometerMeanX          
-	* frequencyDomainBodyAccelerometerMeanY                         
-	* frequencyDomainBodyAccelerometerMeanZ                         
-	* frequencyDomainBodyAccelerometerStandardDeviationX            
-	* frequencyDomainBodyAccelerometerStandardDeviationY            
-	* frequencyDomainBodyAccelerometerStandardDeviationZ            
-	* frequencyDomainBodyAccelerometerMeanFrequencyX                
-	* frequencyDomainBodyAccelerometerMeanFrequencyY                
-	* frequencyDomainBodyAccelerometerMeanFrequencyZ                
-	* frequencyDomainBodyAccelerometerJerkMeanX                     
-	* frequencyDomainBodyAccelerometerJerkMeanY                     
-	* frequencyDomainBodyAccelerometerJerkMeanZ                     
-	* frequencyDomainBodyAccelerometerJerkStandardDeviationX        
-	* frequencyDomainBodyAccelerometerJerkStandardDeviationY        
-	* frequencyDomainBodyAccelerometerJerkStandardDeviationZ        
-	* frequencyDomainBodyAccelerometerJerkMeanFrequencyX            
-	* frequencyDomainBodyAccelerometerJerkMeanFrequencyY            
-	* frequencyDomainBodyAccelerometerJerkMeanFrequencyZ            
-	* frequencyDomainBodyGyroscopeMeanX                             
-	* frequencyDomainBodyGyroscopeMeanY                             
-	* frequencyDomainBodyGyroscopeMeanZ                             
-	* frequencyDomainBodyGyroscopeStandardDeviationX                
-	* frequencyDomainBodyGyroscopeStandardDeviationY                
-	* frequencyDomainBodyGyroscopeStandardDeviationZ                
-	* frequencyDomainBodyGyroscopeMeanFrequencyX                    
-	* frequencyDomainBodyGyroscopeMeanFrequencyY                    
-	* frequencyDomainBodyGyroscopeMeanFrequencyZ                    
-	* frequencyDomainBodyAccelerometerMagnitudeMean                 
-	* frequencyDomainBodyAccelerometerMagnitudeStandardDeviation    
-	* frequencyDomainBodyAccelerometerMagnitudeMeanFrequency        
-	* frequencyDomainBodyAccelerometerJerkMagnitudeMean             
-	* frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation
-	* frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency    
-	* frequencyDomainBodyGyroscopeMagnitudeMean                     
-	* frequencyDomainBodyGyroscopeMagnitudeStandardDeviation        
-	* frequencyDomainBodyGyroscopeMagnitudeMeanFrequency            
-	* frequencyDomainBodyGyroscopeJerkMagnitudeMean                 
-	* frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation    
-	* frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency
+	* frequencyDomainBodyAccelerometerMeanX : Average frequency-domain body acceleration in the X direction
+	* frequencyDomainBodyAccelerometerMeanY : Average frequency-domain body acceleration in the Y direction
+	* frequencyDomainBodyAccelerometerMeanZ : Average frequency-domain body acceleration in the X direction
+	* frequencyDomainBodyAccelerometerStandardDeviationX : Standard deviation of the frequency-domain body acceleration in the X direction
+	* frequencyDomainBodyAccelerometerStandardDeviationY : Standard deviation of the frequency-domain body acceleration in the Y direction
+	* frequencyDomainBodyAccelerometerStandardDeviationZ : Standard deviation of the frequency-domain body acceleration in the Z direction
+	* frequencyDomainBodyAccelerometerMeanFrequencyX : Weighted average of the frequency components of the frequency-domain body acceleration in the X direction
+	* frequencyDomainBodyAccelerometerMeanFrequencyY : Weighted average of the frequency components of the frequency-domain body acceleration in the Y direction
+	* frequencyDomainBodyAccelerometerMeanFrequencyZ : Weighted average of the frequency components of the frequency-domain body acceleration in the Z direction
+	* frequencyDomainBodyAccelerometerJerkMeanX : Average frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X direction
+	* frequencyDomainBodyAccelerometerJerkMeanY : Average frequency-domain body acceleration jerk (derivation of the acceleration in time) in the Y direction
+	* frequencyDomainBodyAccelerometerJerkMeanZ : Average frequency-domain body acceleration jerk (derivation of the acceleration in time) in the Z direction
+	* frequencyDomainBodyAccelerometerJerkStandardDeviationX : Standard deviation of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X direction
+	* frequencyDomainBodyAccelerometerJerkStandardDeviationY : Standard deviation of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the Y direction
+	* frequencyDomainBodyAccelerometerJerkStandardDeviationZ : Standard deviation of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the Z direction
+	* frequencyDomainBodyAccelerometerJerkMeanFrequencyX : Weighted average of the frequency components of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the X direction
+	* frequencyDomainBodyAccelerometerJerkMeanFrequencyY : Weighted average of the frequency components of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the Y direction
+	* frequencyDomainBodyAccelerometerJerkMeanFrequencyZ : Weighted average of the frequency components of the frequency-domain body acceleration jerk (derivation of the acceleration in time) in the Z direction
+	* frequencyDomainBodyGyroscopeMeanX : Average frequency-domain body angular velocity in the X direction
+	* frequencyDomainBodyGyroscopeMeanY : Average frequency-domain body angular velocity in the Y direction     
+	* frequencyDomainBodyGyroscopeMeanZ : Average frequency-domain body angular velocity in the Z direction
+	* frequencyDomainBodyGyroscopeStandardDeviationX : Standard deviation of the frequency-domain body angular velocity in the X direction
+	* frequencyDomainBodyGyroscopeStandardDeviationY : Standard deviation of the frequency-domain body angular velocity in the Y direction
+	* frequencyDomainBodyGyroscopeStandardDeviationZ : Standard deviation of the frequency-domain body angular velocity in the Z direction
+	* frequencyDomainBodyGyroscopeMeanFrequencyX : Weighted average of the frequency components of the frequency-domain body angular velocity in the X direction
+	* frequencyDomainBodyGyroscopeMeanFrequencyY : Weighted average of the frequency components of the frequency-domain body angular velocity in the Y direction
+	* frequencyDomainBodyGyroscopeMeanFrequencyZ : Weighted average of the frequency components of the frequency-domain body angular velocity in the Z direction
+	* frequencyDomainBodyAccelerometerMagnitudeMean : Average of the frequency components of the frequency-domain magnitude of body acceleration
+	* frequencyDomainBodyAccelerometerMagnitudeStandardDeviation : Standard deviation of the frequency components of the frequency-domain magnitude of body acceleration
+	* frequencyDomainBodyAccelerometerMagnitudeMeanFrequency : Weighted average of the frequency components of the frequency-domain magnitude of body acceleration       
+	* frequencyDomainBodyAccelerometerJerkMagnitudeMean : Average of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time)
+	* frequencyDomainBodyAccelerometerJerkMagnitudeStandardDeviation : Standard deviation of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time)
+	* frequencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency : Weighted average of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time)   
+	* frequencyDomainBodyGyroscopeMagnitudeMean : Average of the frequency components of the frequency-domain magnitude of body angular velocity
+	* frequencyDomainBodyGyroscopeMagnitudeStandardDeviation : Standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity
+	* frequencyDomainBodyGyroscopeMagnitudeMeanFrequency : Weighted average of the frequency components of the frequency-domain magnitude of body angular velocity
+	* frequencyDomainBodyGyroscopeJerkMagnitudeMean : Average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)
+	* frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation : Standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)    
+	* frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency : Weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time)
 
 ### From a Raw data to Tidy data -  Transformation
 
